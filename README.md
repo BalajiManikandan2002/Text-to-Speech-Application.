@@ -1,1 +1,1 @@
-# Text-to-Speech-Application.
+Developed a Python-based text-to-speech application using the pyttsx3 library to convert text from a file into spoken audio.Implemented features to adjust speaking rate, volume, and voice selection. Successfully integrated functionality to save the audio output to an MP3 file.Enhanced user experience by providing options to select different voices and customize speech properties.
